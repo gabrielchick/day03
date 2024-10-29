@@ -1,0 +1,34 @@
+Read
+filereader
+BufferedReader (decorator?)
+
+java-cp........abc.Main
+e.g. read catinthehat.txt ->  output.txt
+
+
+Write
+FilewWriter
+BufferedWriter
+
+
+
+change upper case
+write again to another file
+
+
+
+sets & maps -> unique words in a file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
